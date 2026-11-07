@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1600" height="1000" viewBox="0 0 1600 1000">
+<title>Cafe MangoSix iced drinks lineup (illustration placeholder)</title>
+<desc>Vector illustration standing in for a real caf&#233; photo. Five tall clear iced cups lined up on a dark wood counter under warm track spotlights, styled like menu-board studio shots: mango juice, mango and coconut with a white coconut layer over gold, a strawberry cream smoothie topped with whipped cream and a strawberry, a lime-blue limeade with a lemon wheel, and a beige milk bubble tea with dark tapioca pearls. Each cup shows ice cubes, glass highlights and condensation drops against a charcoal background.</desc>
+<defs>
+<linearGradient id="md-wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#262a29"/><stop offset="1" stop-color="#171a19"/></linearGradient>
+<radialGradient id="md-pool" cx=".5" cy=".5" r=".5" fx=".5" fy=".12"><stop offset="0" stop-color="#FFD39A" stop-opacity=".3"/><stop offset=".45" stop-color="#F5A623" stop-opacity=".1"/><stop offset="1" stop-color="#E07B1A" stop-opacity="0"/></radialGradient>
+<linearGradient id="md-cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFDCA0" stop-opacity=".38"/><stop offset=".35" stop-color="#F5A623" stop-opacity=".1"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></linearGradient>
+<linearGradient id="md-can" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#070808"/><stop offset=".3" stop-color="#363c3a"/><stop offset=".55" stop-color="#121514"/><stop offset="1" stop-color="#050606"/></linearGradient>
+<radialGradient id="md-glow"><stop offset="0" stop-color="#FFF3D6"/><stop offset=".22" stop-color="#FFC46B" stop-opacity=".55"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<radialGradient id="md-warm"><stop offset="0" stop-color="#F5A623" stop-opacity=".22"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<linearGradient id="md-ctop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2e1e12"/><stop offset=".55" stop-color="#4f3521"/><stop offset="1" stop-color="#6B4A2F"/></linearGradient>
+<linearGradient id="md-cfront" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1c11"/><stop offset="1" stop-color="#100a06"/></linearGradient>
+<linearGradient id="md-hl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".5" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity=".06"/></linearGradient>
+<linearGradient id="md-mango" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC44D"/><stop offset=".5" stop-color="#F5A623"/><stop offset="1" stop-color="#E07B1A"/></linearGradient>
+<linearGradient id="md-mc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBF6EC"/><stop offset=".42" stop-color="#F2EADB"/><stop offset=".5" stop-color="#F9D58A"/><stop offset=".57" stop-color="#F5A623"/><stop offset="1" stop-color="#E07B1A"/></linearGradient>
+<linearGradient id="md-pink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6B3BE"/><stop offset=".55" stop-color="#E9798C"/><stop offset="1" stop-color="#D6364B"/></linearGradient>
+<radialGradient id="md-cream" cx=".4" cy=".3" r=".8"><stop offset="0" stop-color="#FFFDF8"/><stop offset="1" stop-color="#EADCC4"/></radialGradient>
+<linearGradient id="md-blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9BE9F4"/><stop offset=".4" stop-color="#3EC6E0"/><stop offset="1" stop-color="#1b86a6"/></linearGradient>
+<linearGradient id="md-tea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#DDBB92"/><stop offset=".6" stop-color="#C49A6C"/><stop offset="1" stop-color="#a37850"/></linearGradient>
+<radialGradient id="md-pearl" cx=".35" cy=".3" r=".7"><stop offset="0" stop-color="#6a4632"/><stop offset=".4" stop-color="#2a170e"/><stop offset="1" stop-color="#0e0704"/></radialGradient>
+<radialGradient id="md-vig" cx=".5" cy=".46" r=".78"><stop offset=".6" stop-color="#050606" stop-opacity="0"/><stop offset="1" stop-color="#050606" stop-opacity=".6"/></radialGradient>
+<filter id="md-b6" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="md-b18" x="-40%" y="-10%" width="180%" height="120%"><feGaussianBlur stdDeviation="18"/></filter>
+<clipPath id="md-in"><path d="M-93 320L-70 770Q0 783 70 770L93 320Z"/></clipPath>
+<pattern id="md-drops" width="46" height="58" patternUnits="userSpaceOnUse">
+<g fill="#fff"><circle cx="6" cy="8" r="1.6"/><circle cx="20" cy="4" r="1"/><circle cx="34" cy="12" r="2.2"/><circle cx="12" cy="24" r="1.2"/><circle cx="28" cy="30" r="1.8"/><circle cx="40" cy="40" r="1"/><circle cx="8" cy="46" r="2"/><circle cx="22" cy="52" r="1.3"/><circle cx="38" cy="54" r="1.5"/></g>
+<g fill="#000" opacity=".25"><circle cx="34.6" cy="13" r="1"/><circle cx="8.6" cy="47" r=".9"/><circle cx="28.5" cy="31" r=".8"/></g>
+</pattern>
+<g id="md-glass">
+<path d="M-96 318L-72 772Q0 786 72 772L96 318Z" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".3" stroke-width="2"/>
+<path d="M-93 320L-70 770Q0 783 70 770L93 320Z" fill="url(#md-drops)" opacity=".6"/>
+<path d="M-80 336L-60 756L-46 758L-64 336Z" fill="url(#md-hl)"/>
+<path d="M74 340L58 756L63 756L80 340Z" fill="#fff" opacity=".22"/>
+<path d="M-30 344L-24 600" stroke="#fff" stroke-opacity=".12" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="0" cy="772" rx="72" ry="11" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3"/>
+<path d="M-70 774Q0 794 70 774" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="2"/>
+<path d="M-96 318A96 13 0 0 1 96 318" fill="none" stroke="#fff" stroke-opacity=".3" stroke-width="2"/>
+<path d="M-96 318A96 13 0 0 0 96 318" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2.5"/>
+<path d="M-70 327A96 13 0 0 0-20 330.5" fill="none" stroke="#FFD58A" stroke-width="3" opacity=".7"/>
+</g>
+<g id="md-ice"><rect x="-23" y="-21" width="46" height="42" rx="9" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"/><path d="M-15-12L8-15" stroke="#fff" stroke-opacity=".8" stroke-width="2.5" stroke-linecap="round"/><path d="M-17-6V10" stroke="#fff" stroke-opacity=".4" stroke-width="2" stroke-linecap="round"/></g>
+<g id="md-lemon"><circle r="36" fill="#F2C230"/><circle r="31" fill="#FBF0B0"/><circle r="28" fill="#F9DE6A"/><path d="M0-28V28M-28 0H28M-19.8-19.8L19.8 19.8M-19.8 19.8L19.8-19.8" stroke="#FFF8D6" stroke-width="2.6"/><circle r="4" fill="#FFF8D6"/><ellipse cx="-12" cy="-14" rx="8" ry="4" fill="#fff" opacity=".35"/></g>
+<g id="md-pg"><circle r="12" fill="url(#md-pearl)"/><circle cx="-4" cy="-4.5" r="2.6" fill="#fff" opacity=".35"/></g>
+<g id="md-spot"><rect x="-11" y="-5" width="22" height="9" rx="2" fill="#060707"/><rect x="-3" y="3" width="6" height="14" fill="#0d0f0e"/><rect x="-17" y="15" width="34" height="58" rx="7" fill="url(#md-can)"/><ellipse cx="0" cy="73" rx="17" ry="5" fill="#050606"/><ellipse cx="0" cy="73" rx="12" ry="3.4" fill="#FFE7B0"/></g>
+</defs>
+
+<rect width="1600" height="1000" fill="url(#md-wall)"/>
+<g fill="url(#md-pool)">
+<ellipse cx="230" cy="420" rx="210" ry="360"/>
+<ellipse cx="515" cy="420" rx="210" ry="360"/>
+<ellipse cx="800" cy="420" rx="210" ry="360"/>
+<ellipse cx="1085" cy="420" rx="210" ry="360"/>
+<ellipse cx="1370" cy="420" rx="210" ry="360"/>
+</g>
+<g fill="url(#md-cone)" filter="url(#md-b18)">
+<polygon points="218,112 242,112 440,790 20,790"/>
+<polygon points="503,112 527,112 725,790 305,790"/>
+<polygon points="788,112 812,112 1010,790 590,790"/>
+<polygon points="1073,112 1097,112 1295,790 875,790"/>
+<polygon points="1358,112 1382,112 1580,790 1160,790"/>
+</g>
+
+<!-- dark wood counter -->
+<rect x="0" y="742" width="1600" height="58" fill="url(#md-ctop)"/>
+<path d="M0 756C400 752 800 760 1600 754M0 770C500 774 1000 766 1600 772M0 786C420 782 1100 790 1600 785" fill="none" stroke="#24160c" stroke-width="1.2" opacity=".45"/>
+<rect x="0" y="800" width="1600" height="200" fill="url(#md-cfront)"/>
+<path d="M200 803V1000M400 803V1000M600 803V1000M800 803V1000M1000 803V1000M1200 803V1000M1400 803V1000" stroke="#080503" stroke-width="2" opacity=".7"/>
+<path d="M202.5 803V1000M402.5 803V1000M602.5 803V1000M802.5 803V1000M1002.5 803V1000M1202.5 803V1000M1402.5 803V1000" stroke="#a87a4b" stroke-width="1" opacity=".12"/>
+<path d="M0 803H1600" stroke="#000" stroke-width="5" opacity=".5"/>
+<path d="M0 800H1600" stroke="#F5A623" stroke-width="2" opacity=".45"/>
+<g fill="url(#md-warm)">
+<ellipse cx="230" cy="815" rx="170" ry="34"/>
+<ellipse cx="515" cy="815" rx="170" ry="34"/>
+<ellipse cx="800" cy="815" rx="170" ry="34"/>
+<ellipse cx="1085" cy="815" rx="170" ry="34"/>
+<ellipse cx="1370" cy="815" rx="170" ry="34"/>
+</g>
+
+<!-- 1 mango juice -->
+<g transform="translate(230 0)">
+<ellipse cx="12" cy="778" rx="102" ry="13" fill="#000" opacity=".6" filter="url(#md-b6)"/>
+<ellipse cx="34" cy="794" rx="124" ry="13" fill="#F5A623" opacity=".3" filter="url(#md-b6)"/>
+<g clip-path="url(#md-in)">
+<rect x="-100" y="372" width="200" height="420" fill="url(#md-mango)"/>
+<ellipse cx="-22" cy="580" rx="40" ry="160" fill="#FFE29A" opacity=".2"/>
+<ellipse cx="0" cy="372" rx="92" ry="11" fill="#FFD67A"/>
+<use xlink:href="#md-ice" transform="translate(-38 398) rotate(12)"/>
+<use xlink:href="#md-ice" transform="translate(28 404) rotate(-8)"/>
+<use xlink:href="#md-ice" transform="translate(-6 452) rotate(20) scale(.9)"/>
+<g fill="#fff" opacity=".45"><circle cx="40" cy="600" r="2.5"/><circle cx="-30" cy="660" r="2"/><circle cx="20" cy="700" r="3"/><circle cx="-50" cy="520" r="2"/><circle cx="56" cy="540" r="1.6"/></g>
+<rect x="10" y="372" width="14" height="330" fill="#121514" opacity=".4" transform="rotate(-5 17 372)"/>
+</g>
+<g transform="rotate(-5 17 372)"><rect x="10" y="190" width="14" height="182" rx="3" fill="#121514"/><rect x="12" y="194" width="3" height="176" fill="#555b59" opacity=".7"/></g>
+<use xlink:href="#md-glass"/>
+</g>
+
+<!-- 2 mango & coconut -->
+<g transform="translate(515 0)">
+<ellipse cx="12" cy="778" rx="102" ry="13" fill="#000" opacity=".6" filter="url(#md-b6)"/>
+<ellipse cx="34" cy="794" rx="124" ry="13" fill="#F5A623" opacity=".22" filter="url(#md-b6)"/>
+<g clip-path="url(#md-in)">
+<rect x="-100" y="372" width="200" height="420" fill="url(#md-mc)"/>
+<path d="M-95 562C-50 546-20 580 20 566S70 546 95 562" fill="none" stroke="#FBF6EC" stroke-width="9" opacity=".55"/>
+<path d="M-95 590C-60 570-30 614 0 594S60 570 95 598" fill="none" stroke="#F5A623" stroke-width="10" opacity=".5"/>
+<ellipse cx="22" cy="470" rx="34" ry="120" fill="#fff" opacity=".18"/>
+<ellipse cx="0" cy="372" rx="92" ry="11" fill="#FFFDF7"/>
+<use xlink:href="#md-ice" transform="translate(-32 400) rotate(10)" opacity=".7"/>
+<use xlink:href="#md-ice" transform="translate(34 398) rotate(-14)" opacity=".7"/>
+<g fill="#fff"><path d="M-44 370l10-3 4 4-9 3z"/><path d="M6 367l12-2 2 5-12 2z"/><path d="M40 374l8-4 5 3-8 4z"/></g>
+<g fill="#d9b77a"><path d="M-16 376l9 1-2 4-9-1z"/><path d="M58 368l7-2 2 4-7 2z"/></g>
+<rect x="-28" y="372" width="14" height="300" fill="#121514" opacity=".22" transform="rotate(6 -21 372)"/>
+</g>
+<g transform="rotate(6 -21 372)"><rect x="-28" y="196" width="14" height="176" rx="3" fill="#121514"/><rect x="-26" y="200" width="3" height="170" fill="#555b59" opacity=".7"/></g>
+<use xlink:href="#md-glass"/>
+</g>
+
+<!-- 3 strawberry cream smoothie -->
+<g transform="translate(800 0)">
+<ellipse cx="12" cy="778" rx="102" ry="13" fill="#000" opacity=".6" filter="url(#md-b6)"/>
+<ellipse cx="34" cy="794" rx="124" ry="13" fill="#D6364B" opacity=".25" filter="url(#md-b6)"/>
+<g clip-path="url(#md-in)">
+<rect x="-100" y="336" width="200" height="456" fill="url(#md-pink)"/>
+<path d="M-90 420C-40 450 40 400 90 440M-90 520C-30 560 30 500 90 540M-90 630C-40 660 40 610 90 650" fill="none" stroke="#FFF1F3" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+<path d="M-88 470C-50 490 0 470 40 495M-30 590C10 610 50 590 88 600M-80 700C-40 716 0 700 40 716" fill="none" stroke="#D6364B" stroke-width="6" stroke-linecap="round" opacity=".5"/>
+<ellipse cx="-24" cy="560" rx="36" ry="170" fill="#fff" opacity=".12"/>
+</g>
+<g transform="rotate(-7 30 340)"><rect x="23" y="198" width="14" height="150" rx="3" fill="#121514"/><rect x="25" y="202" width="3" height="140" fill="#555b59" opacity=".7"/></g>
+<use xlink:href="#md-glass"/>
+<path d="M-92 330C-94 300-62 280-32 282C-20 262 20 258 36 276C68 274 96 300 92 330A92 12 0 0 1-92 330Z" fill="url(#md-cream)"/>
+<path d="M-70 322C-40 304 20 304 62 318M-50 298C-24 288 8 288 30 294" fill="none" stroke="#e2d3b8" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+<path d="M-62 314C-42 300-22 320 0 306S42 300 62 316" fill="none" stroke="#D6364B" stroke-width="5" stroke-linecap="round" opacity=".85"/>
+<path d="M-96 318A96 13 0 0 0 96 318" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2.5"/>
+<g transform="translate(-8 266) rotate(-10)">
+<path d="M-22-8C-22-24 22-24 22-8C22 10 6 26 0 30C-6 26-22 10-22-8Z" fill="#D6364B"/>
+<path d="M22-8C22 10 6 26 0 30" fill="none" stroke="#9e1f33" stroke-width="2" opacity=".6"/>
+<g fill="#F6E3A0"><ellipse cx="-10" cy="-4" rx="1.2" ry="2"/><ellipse cx="0" cy="4" rx="1.2" ry="2"/><ellipse cx="10" cy="-6" rx="1.2" ry="2"/><ellipse cx="-6" cy="12" rx="1.2" ry="2"/><ellipse cx="6" cy="14" rx="1.2" ry="2"/><ellipse cx="12" cy="6" rx="1.2" ry="2"/><ellipse cx="-14" cy="6" rx="1.2" ry="2"/><ellipse cx="0" cy="-10" rx="1.2" ry="2"/></g>
+<ellipse cx="-9" cy="-10" rx="6" ry="3" fill="#fff" opacity=".45"/>
+<path d="M-16-18C-10-28-2-20 0-28C2-20 10-28 16-18C10-15 4-20 0-14C-4-20-10-15-16-18Z" fill="#4F5A3A"/>
+</g>
+</g>
+
+<!-- 4 blue limeade -->
+<g transform="translate(1085 0)">
+<ellipse cx="12" cy="778" rx="102" ry="13" fill="#000" opacity=".6" filter="url(#md-b6)"/>
+<ellipse cx="34" cy="794" rx="124" ry="13" fill="#3EC6E0" opacity=".28" filter="url(#md-b6)"/>
+<g clip-path="url(#md-in)">
+<rect x="-100" y="372" width="200" height="420" fill="url(#md-blue)"/>
+<ellipse cx="-22" cy="580" rx="40" ry="160" fill="#d8fbff" opacity=".16"/>
+<use xlink:href="#md-lemon" transform="translate(-28 566) scale(.9)" opacity=".7"/>
+<ellipse cx="0" cy="372" rx="92" ry="11" fill="#b8f1f8"/>
+<use xlink:href="#md-ice" transform="translate(-36 400) rotate(-10)"/>
+<use xlink:href="#md-ice" transform="translate(30 402) rotate(14)"/>
+<use xlink:href="#md-ice" transform="translate(-2 456) rotate(-24) scale(.9)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.5"><circle cx="40" cy="500" r="4"/><circle cx="52" cy="560" r="3"/><circle cx="30" cy="620" r="5"/><circle cx="60" cy="680" r="3"/><circle cx="-56" cy="470" r="3"/><circle cx="-60" cy="680" r="4"/><circle cx="10" cy="720" r="3"/><circle cx="44" cy="740" r="2.5"/></g>
+<rect x="-20" y="372" width="14" height="320" fill="#121514" opacity=".4" transform="rotate(5 -13 372)"/>
+</g>
+<g transform="rotate(5 -13 372)"><rect x="-20" y="192" width="14" height="180" rx="3" fill="#121514"/><rect x="-18" y="196" width="3" height="172" fill="#555b59" opacity=".7"/></g>
+<use xlink:href="#md-glass"/>
+<use xlink:href="#md-lemon" transform="translate(70 304)"/>
+</g>
+
+<!-- 5 bubble tea -->
+<g transform="translate(1370 0)">
+<ellipse cx="12" cy="778" rx="102" ry="13" fill="#000" opacity=".6" filter="url(#md-b6)"/>
+<ellipse cx="34" cy="794" rx="124" ry="13" fill="#C49A6C" opacity=".25" filter="url(#md-b6)"/>
+<g clip-path="url(#md-in)">
+<rect x="-100" y="372" width="200" height="420" fill="url(#md-tea)"/>
+<ellipse cx="-22" cy="540" rx="38" ry="140" fill="#fff" opacity=".12"/>
+<ellipse cx="0" cy="372" rx="92" ry="11" fill="#e8cba6"/>
+<use xlink:href="#md-ice" transform="translate(-34 398) rotate(8)" opacity=".55"/>
+<use xlink:href="#md-ice" transform="translate(32 404) rotate(-12)" opacity=".55"/>
+<rect x="4" y="372" width="22" height="370" fill="#121514" opacity=".45" transform="rotate(-4 15 372)"/>
+<use xlink:href="#md-pg" transform="translate(-30 662)"/>
+<use xlink:href="#md-pg" transform="translate(40 650)"/>
+<use xlink:href="#md-pg" transform="translate(8 616)"/>
+<use xlink:href="#md-pg" transform="translate(-44 697)"/>
+<use xlink:href="#md-pg" transform="translate(-20 697)"/>
+<use xlink:href="#md-pg" transform="translate(6 697)"/>
+<use xlink:href="#md-pg" transform="translate(30 697)"/>
+<use xlink:href="#md-pg" transform="translate(54 697)"/>
+<use xlink:href="#md-pg" transform="translate(-60 717)"/>
+<use xlink:href="#md-pg" transform="translate(-38 717)"/>
+<use xlink:href="#md-pg" transform="translate(-14 717)"/>
+<use xlink:href="#md-pg" transform="translate(10 717)"/>
+<use xlink:href="#md-pg" transform="translate(34 717)"/>
+<use xlink:href="#md-pg" transform="translate(56 717)"/>
+<use xlink:href="#md-pg" transform="translate(-54 738)"/>
+<use xlink:href="#md-pg" transform="translate(-30 738)"/>
+<use xlink:href="#md-pg" transform="translate(-6 738)"/>
+<use xlink:href="#md-pg" transform="translate(18 738)"/>
+<use xlink:href="#md-pg" transform="translate(42 738)"/>
+<use xlink:href="#md-pg" transform="translate(64 738)"/>
+<use xlink:href="#md-pg" transform="translate(-60 760)"/>
+<use xlink:href="#md-pg" transform="translate(-36 760)"/>
+<use xlink:href="#md-pg" transform="translate(-12 760)"/>
+<use xlink:href="#md-pg" transform="translate(12 760)"/>
+<use xlink:href="#md-pg" transform="translate(36 760)"/>
+<use xlink:href="#md-pg" transform="translate(60 760)"/>
+</g>
+<g transform="rotate(-4 15 372)"><rect x="4" y="186" width="22" height="186" rx="4" fill="#121514"/><rect x="7" y="190" width="4" height="178" fill="#555b59" opacity=".7"/></g>
+<use xlink:href="#md-glass"/>
+</g>
+
+<!-- track and spotlights -->
+<rect x="0" y="0" width="1600" height="30" fill="#121514"/>
+<rect x="0" y="30" width="1600" height="8" fill="#060707"/>
+<path d="M0 31H1600" stroke="#3a3f3d" stroke-width="1" opacity=".6"/>
+<use xlink:href="#md-spot" transform="translate(230 34)"/>
+<use xlink:href="#md-spot" transform="translate(515 34)"/>
+<use xlink:href="#md-spot" transform="translate(800 34)"/>
+<use xlink:href="#md-spot" transform="translate(1085 34)"/>
+<use xlink:href="#md-spot" transform="translate(1370 34)"/>
+<g fill="url(#md-glow)">
+<circle cx="230" cy="110" r="70"/>
+<circle cx="515" cy="110" r="70"/>
+<circle cx="800" cy="110" r="70"/>
+<circle cx="1085" cy="110" r="70"/>
+<circle cx="1370" cy="110" r="70"/>
+</g>
+
+<rect width="1600" height="1000" fill="url(#md-vig)"/>
+
+<!-- placeholder label -->
+<rect x="32" y="922" width="598" height="46" rx="23" fill="#1C1F1E" fill-opacity=".78" stroke="#F6F1E7" stroke-opacity=".18"/>
+<text x="56" y="952.5" font-family="Inter, Arial, sans-serif" font-size="22" fill="#F6F1E7" textLength="550" lengthAdjust="spacing">ILLUSTRATION &#183; placeholder for a real caf&#233; photo</text>
+</svg>

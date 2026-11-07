@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1200" height="1500" viewBox="0 0 1200 1500">
+<title>Cafe MangoSix wood wall and wordmark (illustration placeholder)</title>
+<desc>Vector illustration standing in for a real caf&#233; photo. A close, portrait view of the warm vertical wood-panel feature wall at Cafe MangoSix, lit by two black track spotlights whose amber cones wash the planks. An abstract brush-stroke human figure painted in black sits above a large stacked MANGO / SIX wordmark in bold black geometric lettering. An olive leather armchair and part of a round wood table with a coffee cup sit in the foreground.</desc>
+<defs>
+<linearGradient id="wm-ceil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d0f0e"/><stop offset="1" stop-color="#1f2221"/></linearGradient>
+<linearGradient id="wm-topsh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity=".55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
+<linearGradient id="wm-can" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#070808"/><stop offset=".3" stop-color="#363c3a"/><stop offset=".55" stop-color="#121514"/><stop offset="1" stop-color="#050606"/></linearGradient>
+<linearGradient id="wm-cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFDCA0" stop-opacity=".42"/><stop offset=".35" stop-color="#F5A623" stop-opacity=".12"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></linearGradient>
+<radialGradient id="wm-mg" cx=".5" cy=".5" r=".5" fx=".5" fy=".13"><stop offset="0" stop-color="#000"/><stop offset=".45" stop-color="#000" stop-opacity=".88"/><stop offset=".78" stop-color="#000" stop-opacity=".38"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<radialGradient id="wm-amb" cx=".5" cy=".5" r=".5" fx=".5" fy=".13"><stop offset="0" stop-color="#FFC97A" stop-opacity=".4"/><stop offset=".45" stop-color="#F5A623" stop-opacity=".15"/><stop offset="1" stop-color="#E07B1A" stop-opacity="0"/></radialGradient>
+<radialGradient id="wm-warm"><stop offset="0" stop-color="#F5A623" stop-opacity=".32"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<radialGradient id="wm-glow"><stop offset="0" stop-color="#FFF3D6"/><stop offset=".2" stop-color="#FFC46B" stop-opacity=".55"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<linearGradient id="wm-floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d201f"/><stop offset="1" stop-color="#0b0c0c"/></linearGradient>
+<linearGradient id="wm-back" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#78855a"/><stop offset=".35" stop-color="#5a6744"/><stop offset="1" stop-color="#323b25"/></linearGradient>
+<linearGradient id="wm-seat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6c7a4e"/><stop offset="1" stop-color="#4a5535"/></linearGradient>
+<linearGradient id="wm-front" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#47522f"/><stop offset="1" stop-color="#20261a"/></linearGradient>
+<linearGradient id="wm-arm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#363f27"/><stop offset=".5" stop-color="#5d6a45"/><stop offset="1" stop-color="#2b3220"/></linearGradient>
+<radialGradient id="wm-ttop" cx=".4" cy=".4" r=".65"><stop offset="0" stop-color="#bb8650"/><stop offset=".55" stop-color="#8a5d3a"/><stop offset="1" stop-color="#523822"/></radialGradient>
+<linearGradient id="wm-metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0b0d0c"/><stop offset=".35" stop-color="#3d4341"/><stop offset="1" stop-color="#101312"/></linearGradient>
+<linearGradient id="wm-cup" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cfc6b3"/><stop offset=".35" stop-color="#fffaf0"/><stop offset="1" stop-color="#a99e8a"/></linearGradient>
+<radialGradient id="wm-vig" cx=".5" cy=".45" r=".8"><stop offset=".6" stop-color="#050606" stop-opacity="0"/><stop offset="1" stop-color="#050606" stop-opacity=".6"/></radialGradient>
+<filter id="wm-b4" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="wm-b16" x="-20%" y="-10%" width="140%" height="120%"><feGaussianBlur stdDeviation="16"/></filter>
+<mask id="wm-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="1500">
+<rect width="1200" height="1500" fill="#fff"/>
+<ellipse cx="450" cy="660" rx="350" ry="620" fill="url(#wm-mg)"/>
+<ellipse cx="750" cy="660" rx="350" ry="620" fill="url(#wm-mg)"/>
+</mask>
+<g id="wm-grain" fill="none">
+<path d="M18 60C24 360 12 600 20 840S16 1200 22 1360M38 60C34 300 46 520 40 760S44 1160 40 1360M60 60C66 400 52 660 60 900S58 1220 62 1360M82 60C78 340 88 560 82 800S84 1180 82 1360" stroke="#3a2617" stroke-width="1.6" opacity=".38"/>
+<path d="M28 60C32 420 22 640 30 900S26 1200 30 1360M70 60C74 380 64 620 72 880S70 1180 72 1360" stroke="#a87a4b" stroke-width="1" opacity=".25"/>
+</g>
+<g id="wm-spot">
+<rect x="-14" y="-6" width="28" height="12" rx="2" fill="#060707"/>
+<rect x="-3.5" y="5" width="7" height="22" fill="#0d0f0e"/>
+<rect x="-24" y="24" width="48" height="84" rx="9" fill="url(#wm-can)"/>
+<ellipse cx="0" cy="108" rx="24" ry="7" fill="#050606"/>
+<ellipse cx="0" cy="108" rx="17" ry="4.6" fill="#FFE7B0"/>
+</g>
+</defs>
+
+<rect width="1200" height="1500" fill="#1C1F1E"/>
+
+<!-- wood planks -->
+<rect x="0" y="120" width="100" height="1180" fill="#6B4A2F"/>
+<rect x="100" y="120" width="100" height="1180" fill="#74512f"/>
+<rect x="200" y="120" width="100" height="1180" fill="#5f4129"/>
+<rect x="300" y="120" width="100" height="1180" fill="#7a5634"/>
+<rect x="400" y="120" width="100" height="1180" fill="#664629"/>
+<rect x="500" y="120" width="100" height="1180" fill="#70502f"/>
+<rect x="600" y="120" width="100" height="1180" fill="#5c3f27"/>
+<rect x="700" y="120" width="100" height="1180" fill="#775334"/>
+<rect x="800" y="120" width="100" height="1180" fill="#684a2e"/>
+<rect x="900" y="120" width="100" height="1180" fill="#61432a"/>
+<rect x="1000" y="120" width="100" height="1180" fill="#7b5737"/>
+<rect x="1100" y="120" width="100" height="1180" fill="#6a4a2e"/>
+<use xlink:href="#wm-grain"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 200 -40)"/>
+<use xlink:href="#wm-grain" transform="translate(200 30)"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 400 10)"/>
+<use xlink:href="#wm-grain" transform="translate(400 -50)"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 600 45)"/>
+<use xlink:href="#wm-grain" transform="translate(600 -20)"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 800 -55)"/>
+<use xlink:href="#wm-grain" transform="translate(800 20)"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 1000 -10)"/>
+<use xlink:href="#wm-grain" transform="translate(1000 50)"/>
+<use xlink:href="#wm-grain" transform="matrix(-1 0 0 1 1200 -30)"/>
+<g fill="#3a2617" opacity=".35"><ellipse cx="340" cy="980" rx="7" ry="17"/><ellipse cx="1050" cy="470" rx="6" ry="14"/><ellipse cx="150" cy="560" rx="5" ry="12"/></g>
+<g fill="none" stroke="#3a2617" opacity=".25"><ellipse cx="340" cy="980" rx="13" ry="30"/><ellipse cx="1050" cy="470" rx="11" ry="26"/></g>
+<path d="M100 120V1300M200 120V1300M300 120V1300M400 120V1300M500 120V1300M600 120V1300M700 120V1300M800 120V1300M900 120V1300M1000 120V1300M1100 120V1300" stroke="#22160d" stroke-width="3"/>
+<path d="M102.5 120V1300M202.5 120V1300M302.5 120V1300M402.5 120V1300M502.5 120V1300M602.5 120V1300M702.5 120V1300M802.5 120V1300M902.5 120V1300M1002.5 120V1300M1102.5 120V1300" stroke="#b08050" stroke-width="1" opacity=".3"/>
+
+<!-- darkness everywhere except the spotlit scallops, then warm light -->
+<rect x="0" y="120" width="1200" height="1180" fill="#0c0806" opacity=".84" mask="url(#wm-mask)"/>
+<ellipse cx="450" cy="660" rx="350" ry="620" fill="url(#wm-amb)"/>
+<ellipse cx="750" cy="660" rx="350" ry="620" fill="url(#wm-amb)"/>
+
+<!-- brush-stroke figure -->
+<g fill="#151210">
+<path d="M616 338C640 334 662 346 660 366C654 420 626 470 596 512C590 520 576 518 574 508C590 462 606 414 608 370C608 356 606 342 616 338Z"/>
+<path d="M646 350C690 332 730 300 770 258C782 246 796 236 806 232C800 246 784 262 772 276C736 316 696 352 658 378Z"/>
+<path d="M614 356C570 374 520 396 474 404C456 406 440 400 428 390C444 412 470 424 494 422C540 416 586 400 620 384Z"/>
+<path d="M572 500C566 540 548 566 520 596C504 612 486 626 462 640C470 646 484 648 494 642C522 622 552 594 572 566C586 546 596 526 598 510Z"/>
+<path d="M590 506C622 528 650 556 668 590C680 612 690 630 706 640C716 646 734 642 742 634C724 636 712 628 704 612C688 580 664 540 612 496Z"/>
+<circle cx="818" cy="222" r="5"/><circle cx="832" cy="208" r="2.8"/><circle cx="418" cy="380" r="4"/><circle cx="406" cy="372" r="2.2"/><circle cx="452" cy="656" r="3.5"/><circle cx="756" cy="642" r="4"/><circle cx="700" cy="252" r="2.4"/><circle cx="548" cy="300" r="3"/>
+</g>
+<path d="M628 268C602 262 590 292 606 310C622 326 652 316 656 292C658 276 646 264 634 266" fill="none" stroke="#151210" stroke-width="20" stroke-linecap="round"/>
+<path d="M636 264C642 259 650 259 656 264" fill="none" stroke="#151210" stroke-width="5" stroke-linecap="round"/>
+<g fill="none" stroke="#6B4A2F" stroke-linecap="round" opacity=".45">
+<path d="M626 362C620 410 606 450 590 496" stroke-width="2"/>
+<path d="M672 352C708 328 742 300 774 266" stroke-width="1.6"/>
+<path d="M596 376C556 392 516 404 478 408" stroke-width="1.6"/>
+<path d="M580 530C566 566 540 596 500 626" stroke-width="1.5"/>
+<path d="M612 296C614 284 624 278 634 280" stroke-width="2"/>
+</g>
+
+<!-- wordmark -->
+<g fill="#151210" font-family="Montserrat, 'Arial Black', Arial, sans-serif" font-weight="800" font-size="200" text-anchor="middle" letter-spacing="4">
+<text x="600" y="850">MANGO</text>
+<text x="600" y="1045">SIX</text>
+</g>
+
+<!-- ceiling, track and spotlights -->
+<rect x="0" y="120" width="1200" height="44" fill="url(#wm-topsh)"/>
+<rect x="0" y="0" width="1200" height="120" fill="url(#wm-ceil)"/>
+<path d="M0 120H1200" stroke="#000" stroke-width="2" opacity=".6"/>
+<g fill="url(#wm-cone)" filter="url(#wm-b16)">
+<polygon points="344,190 368,184 950,1300 350,1300"/>
+<polygon points="856,190 832,184 250,1300 850,1300"/>
+</g>
+<rect x="0" y="74" width="1200" height="10" fill="#060707"/>
+<path d="M0 75H1200" stroke="#3a3f3d" stroke-width="1" opacity=".6"/>
+<use xlink:href="#wm-spot" transform="translate(330 80) rotate(-14)"/>
+<use xlink:href="#wm-spot" transform="translate(870 80) rotate(14)"/>
+<circle cx="356" cy="186" r="90" fill="url(#wm-glow)"/>
+<circle cx="844" cy="186" r="90" fill="url(#wm-glow)"/>
+
+<!-- floor -->
+<rect x="0" y="1300" width="1200" height="200" fill="url(#wm-floor)"/>
+<rect x="0" y="1292" width="1200" height="10" fill="#120d09"/>
+<ellipse cx="600" cy="1312" rx="520" ry="46" fill="url(#wm-warm)"/>
+
+<!-- round wood table (right) -->
+<ellipse cx="960" cy="1470" rx="190" ry="22" fill="#000" opacity=".6" filter="url(#wm-b4)"/>
+<ellipse cx="960" cy="1458" rx="118" ry="16" fill="#0c0e0d"/>
+<ellipse cx="960" cy="1452" rx="116" ry="14" fill="#2a2e2d"/>
+<ellipse cx="940" cy="1449" rx="60" ry="5" fill="#5a605e" opacity=".4"/>
+<rect x="944" y="1270" width="32" height="184" fill="url(#wm-metal)"/>
+<rect x="944" y="1270" width="32" height="34" fill="#000" opacity=".5"/>
+<ellipse cx="960" cy="1252" rx="320" ry="62" fill="#3b2717"/>
+<ellipse cx="960" cy="1238" rx="320" ry="62" fill="url(#wm-ttop)"/>
+<g fill="none" stroke="#4a311d" opacity=".35"><ellipse cx="985" cy="1240" rx="240" ry="44"/><ellipse cx="995" cy="1242" rx="160" ry="29"/><ellipse cx="1005" cy="1244" rx="80" ry="14"/></g>
+<ellipse cx="900" cy="1226" rx="220" ry="40" fill="url(#wm-warm)"/>
+<path d="M640 1238A320 62 0 0 1 1280 1238" fill="none" stroke="#d9a066" stroke-width="2" opacity=".35"/>
+<ellipse cx="864" cy="1236" rx="62" ry="13" fill="#000" opacity=".35" filter="url(#wm-b4)"/>
+<ellipse cx="860" cy="1230" rx="60" ry="13" fill="#e4dccb"/>
+<ellipse cx="860" cy="1228" rx="44" ry="8.5" fill="#cfc6b3"/>
+<path d="M824 1168L829 1220C838 1232 882 1232 891 1220L896 1168Z" fill="url(#wm-cup)"/>
+<path d="M894 1178C916 1176 918 1204 892 1206" fill="none" stroke="#ddd4c2" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="860" cy="1168" rx="36" ry="8" fill="#f2ece0"/>
+<ellipse cx="860" cy="1169" rx="31" ry="6" fill="#3a2416"/>
+<ellipse cx="856" cy="1168" rx="16" ry="3" fill="#8a5a32" opacity=".7"/>
+<path d="M834 1178L837 1214" stroke="#fff" stroke-width="4" opacity=".55" stroke-linecap="round"/>
+
+<!-- olive leather armchair (left) -->
+<ellipse cx="285" cy="1474" rx="270" ry="26" fill="#000" opacity=".65" filter="url(#wm-b4)"/>
+<path d="M88 1432L96 1480H108L112 1432ZM456 1432L460 1480H472L480 1432Z" fill="#14100c"/>
+<path d="M118 1300V1150C118 1100 170 1082 284 1080S450 1100 450 1150V1300Z" fill="url(#wm-back)"/>
+<path d="M201 1098V1292M284 1086V1292M367 1098V1292" stroke="#283020" stroke-width="3" opacity=".7"/>
+<path d="M204 1100V1292M287 1088V1292M370 1100V1292" stroke="#8d9a68" stroke-width="1.2" opacity=".3"/>
+<path d="M150 1112C180 1092 230 1086 284 1085S390 1092 420 1112" fill="none" stroke="#b9c28f" stroke-width="3" opacity=".35" stroke-linecap="round"/>
+<path d="M150 1322C150 1298 176 1290 284 1290S418 1298 418 1322V1358H150Z" fill="url(#wm-seat)"/>
+<path d="M180 1302C220 1296 350 1296 390 1302" stroke="#c3cb9a" stroke-width="2.5" opacity=".35" fill="none" stroke-linecap="round"/>
+<rect x="150" y="1352" width="268" height="82" fill="url(#wm-front)"/>
+<path d="M150 1352H418" stroke="#2a3120" stroke-width="3"/>
+<path d="M60 1436V1222C60 1188 84 1170 112 1170S164 1188 164 1222V1436Z" fill="url(#wm-arm)"/>
+<path d="M404 1436V1222C404 1188 428 1170 456 1170S508 1188 508 1222V1436Z" fill="url(#wm-arm)"/>
+<path d="M74 1206C80 1186 96 1178 112 1177M418 1206C424 1186 440 1178 456 1177" stroke="#c3cb9a" stroke-width="3" fill="none" stroke-linecap="round" opacity=".45"/>
+<path d="M160 1230V1430M408 1230V1430" stroke="#1d2316" stroke-width="3" opacity=".6"/>
+<rect x="60" y="1430" width="448" height="8" rx="3" fill="#1d2316"/>
+<ellipse cx="300" cy="1120" rx="230" ry="70" fill="url(#wm-warm)"/>
+
+<rect width="1200" height="1500" fill="url(#wm-vig)"/>
+
+<!-- placeholder label -->
+<rect x="28" y="1428" width="570" height="44" rx="22" fill="#1C1F1E" fill-opacity=".78" stroke="#F6F1E7" stroke-opacity=".18"/>
+<text x="50" y="1457" font-family="Inter, Arial, sans-serif" font-size="21" fill="#F6F1E7" textLength="525" lengthAdjust="spacing">ILLUSTRATION &#183; placeholder for a real caf&#233; photo</text>
+</svg>

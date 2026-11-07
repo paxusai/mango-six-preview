@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1200" height="1200" viewBox="0 0 1200 1200">
+<title>Mango bingsu at Cafe MangoSix (illustration placeholder)</title>
+<desc>Vector illustration standing in for a real caf&#233; photo. A Korean mango bingsu in a dark stoneware bowl on a round wood board: a tall snowy mound of finely shaved ice topped with glossy cubes of ripe mango, a drizzle of golden mango syrup, a small heap of sweet red bean and a scoop of vanilla ice cream. A single warm spotlight falls from above onto a charcoal background with a soft mango-gold glow.</desc>
+<defs>
+<radialGradient id="mb-bg" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#2f3332"/><stop offset=".6" stop-color="#1f2322"/><stop offset="1" stop-color="#121514"/></radialGradient>
+<radialGradient id="mb-glow"><stop offset="0" stop-color="#F5A623" stop-opacity=".38"/><stop offset=".5" stop-color="#E07B1A" stop-opacity=".12"/><stop offset="1" stop-color="#E07B1A" stop-opacity="0"/></radialGradient>
+<linearGradient id="mb-cone" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE2B0" stop-opacity=".45"/><stop offset=".45" stop-color="#F5A623" stop-opacity=".12"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></linearGradient>
+<linearGradient id="mb-can" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#070808"/><stop offset=".3" stop-color="#363c3a"/><stop offset=".55" stop-color="#121514"/><stop offset="1" stop-color="#050606"/></linearGradient>
+<radialGradient id="mb-lglow"><stop offset="0" stop-color="#FFF3D6"/><stop offset=".22" stop-color="#FFC46B" stop-opacity=".55"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<linearGradient id="mb-table" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b1e1d"/><stop offset="1" stop-color="#0b0d0c"/></linearGradient>
+<radialGradient id="mb-warm"><stop offset="0" stop-color="#F5A623" stop-opacity=".25"/><stop offset="1" stop-color="#F5A623" stop-opacity="0"/></radialGradient>
+<radialGradient id="mb-board" cx=".45" cy=".35" r=".7"><stop offset="0" stop-color="#b98450"/><stop offset=".55" stop-color="#86593a"/><stop offset="1" stop-color="#4f3521"/></radialGradient>
+<linearGradient id="mb-bowl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0e100f"/><stop offset=".28" stop-color="#3b403e"/><stop offset=".55" stop-color="#222625"/><stop offset="1" stop-color="#0a0b0b"/></linearGradient>
+<radialGradient id="mb-ice" cx=".45" cy=".22" r=".85"><stop offset="0" stop-color="#ffffff"/><stop offset=".4" stop-color="#f8f3ea"/><stop offset=".75" stop-color="#ddd6ca"/><stop offset="1" stop-color="#a8a49d"/></radialGradient>
+<linearGradient id="mb-iceSh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2a2420" stop-opacity=".14"/><stop offset=".45" stop-color="#2a2420" stop-opacity="0"/><stop offset="1" stop-color="#2a2420" stop-opacity=".32"/></linearGradient>
+<linearGradient id="mb-ct" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFDC78"/><stop offset="1" stop-color="#FFB52E"/></linearGradient>
+<linearGradient id="mb-cl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7AE2C"/><stop offset="1" stop-color="#E8891C"/></linearGradient>
+<linearGradient id="mb-cr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E58420"/><stop offset="1" stop-color="#B65A10"/></linearGradient>
+<radialGradient id="mb-scoop" cx=".4" cy=".3" r=".75"><stop offset="0" stop-color="#FFFDF6"/><stop offset=".5" stop-color="#FAEFD8"/><stop offset="1" stop-color="#dcc6a0"/></radialGradient>
+<radialGradient id="mb-beanSh" cx=".4" cy=".25" r=".8"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
+<radialGradient id="mb-hot"><stop offset="0" stop-color="#FFF1D2" stop-opacity=".3"/><stop offset="1" stop-color="#FFF1D2" stop-opacity="0"/></radialGradient>
+<radialGradient id="mb-vig" cx=".5" cy=".46" r=".75"><stop offset=".6" stop-color="#050606" stop-opacity="0"/><stop offset="1" stop-color="#050606" stop-opacity=".62"/></radialGradient>
+<linearGradient id="mb-spoon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8c27a"/><stop offset=".5" stop-color="#b8863f"/><stop offset="1" stop-color="#7a5626"/></linearGradient>
+<filter id="mb-fluff" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency=".045" numOctaves="2" seed="4" result="t"/><feDisplacementMap in="SourceGraphic" in2="t" scale="18" xChannelSelector="R" yChannelSelector="G"/></filter>
+<filter id="mb-b4" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="mb-b10" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="10"/></filter>
+<filter id="mb-b20" x="-30%" y="-10%" width="160%" height="120%"><feGaussianBlur stdDeviation="20"/></filter>
+<clipPath id="mb-iceclip"><path d="M0 0H1200V762H852A252 54 0 0 1 348 762H0Z"/></clipPath>
+<pattern id="mb-snow" width="38" height="34" patternUnits="userSpaceOnUse">
+<circle cx="4" cy="5" r="1.6" fill="#fff"/><circle cx="17" cy="3" r="1.1" fill="#fff"/><circle cx="29" cy="8" r="1.8" fill="#fff"/><circle cx="10" cy="15" r="1.2" fill="#c9c3b8"/><circle cx="23" cy="17" r="1.5" fill="#fff"/><circle cx="34" cy="21" r="1" fill="#d6d0c5"/><circle cx="6" cy="26" r="1.4" fill="#fff"/><circle cx="18" cy="29" r="1" fill="#cfc9be"/><circle cx="30" cy="30" r="1.6" fill="#fff"/><circle cx="14" cy="22" r=".8" fill="#bfe9f2"/>
+</pattern>
+<pattern id="mb-beans" width="18" height="14" patternUnits="userSpaceOnUse">
+<rect width="18" height="14" fill="#3a120e"/>
+<ellipse cx="4.5" cy="4" rx="4.2" ry="3" fill="#6e2a20" transform="rotate(-20 4.5 4)"/>
+<ellipse cx="13" cy="3.6" rx="4" ry="2.9" fill="#5a1d17" transform="rotate(25 13 3.6)"/>
+<ellipse cx="9" cy="10" rx="4.2" ry="3" fill="#7a3326" transform="rotate(10 9 10)"/>
+<ellipse cx="2.6" cy="11" rx="2.5" ry="2.6" fill="#4d1813"/><ellipse cx="16" cy="11" rx="2" ry="2.6" fill="#4d1813"/>
+<circle cx="3.5" cy="3" r=".9" fill="#e0a08f" opacity=".6"/><circle cx="8" cy="9" r=".9" fill="#e0a08f" opacity=".6"/><circle cx="12.5" cy="2.8" r=".8" fill="#e0a08f" opacity=".5"/>
+</pattern>
+<pattern id="mb-speck" width="44" height="36" patternUnits="userSpaceOnUse"><circle cx="6" cy="8" r="1.2" fill="#8a8072"/><circle cx="26" cy="5" r=".9" fill="#a39888"/><circle cx="36" cy="22" r="1.3" fill="#7d7466"/><circle cx="15" cy="27" r="1" fill="#9a8f80"/></pattern>
+<path id="mb-mound" d="M352 768C330 680 360 560 420 480C470 410 540 372 604 368C672 372 740 412 788 480C846 560 872 680 848 768C760 820 440 820 352 768Z"/>
+<path id="mb-bowlpath" d="M348 762C350 852 420 902 500 910C560 916 640 916 700 910C780 902 850 852 852 762Z"/>
+<path id="mb-heap" d="M452 420C450 380 482 356 522 354C562 356 592 382 590 420C560 430 484 430 452 420Z"/>
+<g id="mb-cube" stroke-linejoin="round" stroke-width="8">
+<path d="M-32-15L0 0V34L-32 19Z" fill="url(#mb-cl)" stroke="url(#mb-cl)"/>
+<path d="M0 0L32-15V19L0 34Z" fill="url(#mb-cr)" stroke="url(#mb-cr)"/>
+<path d="M0-30L32-15L0 0L-32-15Z" fill="url(#mb-ct)" stroke="url(#mb-ct)"/>
+<ellipse cx="-5" cy="-16" rx="12" ry="4.5" fill="#FFF4CF" opacity=".55" stroke="none"/>
+<path d="M-26-15L0-27" fill="none" stroke="#FFF6D8" stroke-width="2.5" stroke-linecap="round" opacity=".75"/>
+<path d="M-28-8L-26 14" fill="none" stroke="#FFD27A" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+<path d="M2 4V28" fill="none" stroke="#8a420a" stroke-width="2" opacity=".25"/>
+</g>
+<path id="mb-spark" d="M0-9L2-2L9 0L2 2L0 9L-2 2L-9 0L-2-2Z" fill="#fff"/>
+</defs>
+
+<rect width="1200" height="1200" fill="url(#mb-bg)"/>
+<rect x="0" y="780" width="1200" height="420" fill="url(#mb-table)"/>
+<path d="M0 780H1200" stroke="#2f3332" stroke-width="1.5" opacity=".6"/>
+<ellipse cx="600" cy="560" rx="500" ry="440" fill="url(#mb-glow)"/>
+<polygon points="578,58 622,58 1000,1000 200,1000" fill="url(#mb-cone)" filter="url(#mb-b20)"/>
+<ellipse cx="600" cy="960" rx="560" ry="150" fill="url(#mb-warm)"/>
+
+<!-- spotlight -->
+<rect x="594" y="0" width="12" height="10" fill="#0d0f0e"/>
+<rect x="574" y="-12" width="52" height="70" rx="9" fill="url(#mb-can)"/>
+<ellipse cx="600" cy="58" rx="26" ry="7" fill="#050606"/>
+<ellipse cx="600" cy="58" rx="19" ry="5" fill="#FFE7B0"/>
+<circle cx="600" cy="62" r="90" fill="url(#mb-lglow)"/>
+
+<!-- round wood board -->
+<ellipse cx="615" cy="978" rx="450" ry="110" fill="#000" opacity=".6" filter="url(#mb-b10)"/>
+<ellipse cx="600" cy="948" rx="430" ry="106" fill="#3b2717"/>
+<ellipse cx="600" cy="930" rx="430" ry="104" fill="url(#mb-board)"/>
+<g fill="none" stroke="#5a3c24" opacity=".35"><ellipse cx="600" cy="930" rx="350" ry="84"/><ellipse cx="600" cy="930" rx="260" ry="62"/><ellipse cx="600" cy="930" rx="170" ry="40"/><ellipse cx="600" cy="930" rx="80" ry="19"/></g>
+<path d="M170 930A430 104 0 0 1 1030 930" fill="none" stroke="#d39a62" stroke-width="2" opacity=".35"/>
+<path d="M170 930A430 104 0 0 0 1030 930" fill="none" stroke="#2a1a10" stroke-width="2" opacity=".6"/>
+
+<!-- brass spoon -->
+<ellipse cx="860" cy="1000" rx="46" ry="14" fill="#000" opacity=".45" filter="url(#mb-b4)"/>
+<path d="M884 984L1064 946" stroke="#b8863f" stroke-width="8" stroke-linecap="round"/>
+<path d="M888 980L1060 944" stroke="#f0cc88" stroke-width="2" stroke-linecap="round" opacity=".7"/>
+<ellipse cx="850" cy="990" rx="40" ry="15" transform="rotate(-12 850 990)" fill="url(#mb-spoon)"/>
+<ellipse cx="842" cy="986" rx="18" ry="5" transform="rotate(-12 842 986)" fill="#fff3d0" opacity=".5"/>
+
+<!-- stoneware bowl -->
+<ellipse cx="615" cy="920" rx="210" ry="38" fill="#000" opacity=".55" filter="url(#mb-b4)"/>
+<ellipse cx="600" cy="912" rx="118" ry="20" fill="#0e100f"/>
+<use xlink:href="#mb-bowlpath" fill="url(#mb-bowl)"/>
+<use xlink:href="#mb-bowlpath" fill="url(#mb-speck)" opacity=".5"/>
+<path d="M382 792C394 842 432 878 482 894" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".16" filter="url(#mb-b4)"/>
+<path d="M822 792C812 842 772 880 722 896" fill="none" stroke="#F5A623" stroke-width="5" stroke-linecap="round" opacity=".28"/>
+<ellipse cx="600" cy="762" rx="252" ry="54" fill="#0d0f0e"/>
+<path d="M348 762A252 54 0 0 1 852 762" fill="none" stroke="#6b5e52" stroke-width="5"/>
+
+<!-- shaved ice mound -->
+<g clip-path="url(#mb-iceclip)" filter="url(#mb-fluff)">
+<use xlink:href="#mb-mound" fill="url(#mb-ice)"/>
+<use xlink:href="#mb-mound" fill="url(#mb-iceSh)"/>
+<use xlink:href="#mb-mound" fill="url(#mb-snow)" opacity=".8"/>
+<path d="M400 640C460 610 540 600 600 606M620 650C680 640 740 650 800 680M420 720C500 700 580 700 650 712M560 540C620 530 690 545 740 570" fill="none" stroke="#cfc8bc" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+</g>
+<path d="M348 762A252 54 0 0 0 852 762" fill="none" stroke="#5e5248" stroke-width="6"/>
+<path d="M348 762A252 54 0 0 0 852 762" fill="none" stroke="#a08e7c" stroke-width="1.5" opacity=".5"/>
+
+<!-- syrup soaked top and drips -->
+<path d="M440 520C470 450 530 388 604 380C680 388 740 450 770 520C746 542 704 528 674 542C644 556 612 538 580 550C542 562 502 536 472 548C456 554 444 540 440 520Z" fill="#F5A623" opacity=".8"/>
+<g fill="none" stroke="#F0961E" stroke-linecap="round" opacity=".88">
+<path d="M474 546C472 580 476 610 470 642" stroke-width="12"/>
+<path d="M534 556C536 590 532 618 536 660" stroke-width="10"/>
+<path d="M600 548C598 600 602 640 598 690" stroke-width="13"/>
+<path d="M664 548C666 580 662 606 666 628" stroke-width="10"/>
+<path d="M722 534C726 572 722 600 728 650" stroke-width="12"/>
+</g>
+<g fill="#F0961E"><circle cx="470" cy="646" r="8"/><circle cx="536" cy="664" r="7"/><circle cx="598" cy="694" r="8.5"/><circle cx="666" cy="632" r="7"/><circle cx="728" cy="654" r="8"/></g>
+<path d="M470 552C468 584 472 612 466 638M531 562C533 592 529 618 533 656M596 556C594 600 598 640 594 686M661 554C663 582 659 606 663 626M719 540C723 574 719 600 725 646" fill="none" stroke="#FFE0A0" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+
+<!-- back mango cubes -->
+<use xlink:href="#mb-cube" transform="translate(560 352) rotate(-6) scale(.78)"/>
+<use xlink:href="#mb-cube" transform="translate(690 360) rotate(8) scale(.8)"/>
+<use xlink:href="#mb-cube" transform="translate(488 398) rotate(12) scale(.82)"/>
+<use xlink:href="#mb-cube" transform="translate(730 402) rotate(-10) scale(.82)"/>
+
+<!-- red bean heap -->
+<ellipse cx="525" cy="422" rx="70" ry="10" fill="#000" opacity=".35" filter="url(#mb-b4)"/>
+<use xlink:href="#mb-heap" fill="url(#mb-beans)"/>
+<use xlink:href="#mb-heap" fill="url(#mb-beanSh)"/>
+<g fill="#6e2a20"><ellipse cx="470" cy="414" rx="5.5" ry="4" transform="rotate(-20 470 414)"/><ellipse cx="578" cy="412" rx="5.5" ry="4" transform="rotate(25 578 412)"/><ellipse cx="520" cy="357" rx="5" ry="3.6"/><ellipse cx="500" cy="364" rx="5" ry="3.6" transform="rotate(-30 500 364)"/><ellipse cx="548" cy="362" rx="5" ry="3.6" transform="rotate(30 548 362)"/></g>
+<g fill="#f2c2b2" opacity=".6"><circle cx="518" cy="355.5" r="1.4"/><circle cx="498" cy="362" r="1.3"/><circle cx="546" cy="360" r="1.3"/><circle cx="468" cy="412" r="1.3"/></g>
+
+<!-- vanilla ice cream scoop -->
+<ellipse cx="645" cy="404" rx="72" ry="13" fill="#6a3a0a" opacity=".45" filter="url(#mb-b4)"/>
+<path d="M566 376C552 338 572 284 622 270C668 258 716 284 720 330C724 360 712 384 700 392C690 402 676 394 666 402C654 410 640 400 628 406C614 412 604 400 592 404C580 408 570 396 566 376Z" fill="url(#mb-scoop)"/>
+<path d="M572 380C590 388 610 384 626 392C642 386 662 392 680 386C694 384 704 378 714 366" fill="none" stroke="#d4bf98" stroke-width="2" opacity=".6"/>
+<path d="M712 300C722 320 722 350 710 378" fill="none" stroke="#FFC46B" stroke-width="3" opacity=".5" stroke-linecap="round"/>
+<ellipse cx="620" cy="300" rx="26" ry="14" fill="#fff" opacity=".75" filter="url(#mb-b4)"/>
+<g fill="#3a2a1e" opacity=".55"><circle cx="600" cy="320" r="1.3"/><circle cx="632" cy="338" r="1.2"/><circle cx="664" cy="312" r="1.3"/><circle cx="688" cy="350" r="1.2"/><circle cx="610" cy="360" r="1.1"/><circle cx="650" cy="370" r="1.3"/><circle cx="676" cy="330" r="1"/><circle cx="590" cy="348" r="1.2"/><circle cx="640" cy="300" r="1"/><circle cx="700" cy="322" r="1.2"/></g>
+<path d="M692 392C694 410 690 420 696 428C702 432 706 424 704 412C702 404 702 398 700 390Z" fill="#FAEFD8"/>
+
+<!-- front mango cubes -->
+<use xlink:href="#mb-cube" transform="translate(470 458) rotate(-8) scale(.92)"/>
+<use xlink:href="#mb-cube" transform="translate(535 448) rotate(6) scale(.95)"/>
+<use xlink:href="#mb-cube" transform="translate(615 440) rotate(-4) scale(.95)"/>
+<use xlink:href="#mb-cube" transform="translate(695 446) rotate(10) scale(.93)"/>
+<use xlink:href="#mb-cube" transform="translate(758 462) rotate(-6) scale(.88)"/>
+<use xlink:href="#mb-cube" transform="translate(420 515) rotate(14) scale(.9)"/>
+<use xlink:href="#mb-cube" transform="translate(500 508) rotate(-6)"/>
+<use xlink:href="#mb-cube" transform="translate(582 505) rotate(4) scale(1.02)"/>
+<use xlink:href="#mb-cube" transform="translate(664 506) rotate(-8)"/>
+<use xlink:href="#mb-cube" transform="translate(744 516) rotate(6) scale(.95)"/>
+<use xlink:href="#mb-cube" transform="translate(800 535) rotate(-12) scale(.85)"/>
+<use xlink:href="#mb-cube" transform="translate(540 568) rotate(10) scale(.9)"/>
+<use xlink:href="#mb-cube" transform="translate(635 572) rotate(-6) scale(.92)"/>
+<use xlink:href="#mb-cube" transform="translate(395 590) rotate(22) scale(.78)"/>
+<use xlink:href="#mb-cube" transform="translate(830 610) rotate(-18) scale(.78)"/>
+
+<!-- glossy syrup drizzle over the fruit -->
+<path d="M452 438C500 420 540 470 600 446C650 426 690 476 760 446" fill="none" stroke="#F5A623" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+<path d="M454 434C500 416 540 466 600 442C650 422 690 472 758 442" fill="none" stroke="#FFE3A3" stroke-width="2.4" stroke-linecap="round" opacity=".85"/>
+<g fill="#F5A623"><circle cx="512" cy="530" r="5"/><circle cx="676" cy="524" r="4.5"/><circle cx="600" cy="590" r="4"/></g>
+<g fill="#fff" opacity=".8"><circle cx="510.5" cy="528.5" r="1.5"/><circle cx="674.8" cy="522.6" r="1.4"/><circle cx="598.8" cy="588.8" r="1.2"/></g>
+
+<!-- loose red beans on the ice -->
+<g fill="#5e2219"><ellipse cx="430" cy="566" rx="5" ry="3.6" transform="rotate(-25 430 566)"/><ellipse cx="782" cy="580" rx="5" ry="3.6" transform="rotate(20 782 580)"/><ellipse cx="500" cy="612" rx="5" ry="3.6"/><ellipse cx="704" cy="600" rx="4.6" ry="3.4" transform="rotate(35 704 600)"/></g>
+
+<!-- sparkles -->
+<use xlink:href="#mb-spark" transform="translate(452 640) scale(.9)" opacity=".85"/>
+<use xlink:href="#mb-spark" transform="translate(760 668) scale(.7)" opacity=".8"/>
+<use xlink:href="#mb-spark" transform="translate(520 726) scale(.6)" opacity=".75"/>
+<use xlink:href="#mb-spark" transform="translate(692 742) scale(.8)" opacity=".8"/>
+<use xlink:href="#mb-spark" transform="translate(410 700) scale(.5)" opacity=".7"/>
+<use xlink:href="#mb-spark" transform="translate(812 722) scale(.55)" opacity=".7"/>
+<use xlink:href="#mb-spark" transform="translate(546 434) scale(.6)" opacity=".9"/>
+<use xlink:href="#mb-spark" transform="translate(682 492) scale(.5)" opacity=".85"/>
+<use xlink:href="#mb-spark" transform="translate(612 286) scale(.7)" opacity=".9"/>
+
+<ellipse cx="600" cy="380" rx="320" ry="200" fill="url(#mb-hot)"/>
+<rect width="1200" height="1200" fill="url(#mb-vig)"/>
+
+<!-- placeholder label -->
+<rect x="28" y="1130" width="570" height="44" rx="22" fill="#1C1F1E" fill-opacity=".78" stroke="#F6F1E7" stroke-opacity=".18"/>
+<text x="50" y="1159" font-family="Inter, Arial, sans-serif" font-size="21" fill="#F6F1E7" textLength="525" lengthAdjust="spacing">ILLUSTRATION &#183; placeholder for a real caf&#233; photo</text>
+</svg>
